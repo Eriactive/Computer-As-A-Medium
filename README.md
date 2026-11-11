@@ -1,4 +1,4 @@
 # Computer As A Medium
 ### This is a repo for the Computer As A Medium Fall 2026.
-### Group Name: [Your Group Name Here]
+### Group Name: [Team Coders]
 ### Group Members: [Erik Ayuso, Bradshyr Mortimer]
